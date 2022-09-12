@@ -28,8 +28,8 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "Elaina Chan" //namabot kalian
 global.ownername= "ReDLa" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https:/https://instagram.com/redlasenja?igshid=YmMyMTA2M2Y=" //bebas asal jan hapus
+global.myweb ="Instagram" //bebas asal jan hapus
+global.instagram = "https:/https://instagram.com/redlasenja?igshid=YmMyMTA2M2Y=" //bebas asal jan hapus
 global.myweb2 = "gada bree sumpah" //bebas
 global.email = "redlasans@gmail.com" //bebas
 global.region = "Mars" //bebas
